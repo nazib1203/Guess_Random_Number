@@ -26,3 +26,20 @@ This project is ideal for beginners learning the basics of Java, including **loo
 3. Compile the file:  
    ```bash
    javac GuessNumber.java
+🎯 Learning Outcomes
+
+Using Scanner for user input
+
+Implementing the Random class in Java
+
+Applying if-else conditions and loops
+
+Writing clean and readable code
+
+📌 Future Improvements
+
+Add difficulty levels (easy, medium, hard)
+
+Limit the number of attempts
+
+Build a GUI version using Java Swing/JavaFX
