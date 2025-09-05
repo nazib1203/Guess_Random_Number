@@ -26,6 +26,10 @@ This project is ideal for beginners learning the basics of Java, including **loo
 3. Compile the file:  
    ```bash
    javac GuessNumber.java
+4. Run the program:
+   ```bash
+   java GuessNumber
+
 ## 🎯 Learning Outcomes
 
 Using Scanner for user input
