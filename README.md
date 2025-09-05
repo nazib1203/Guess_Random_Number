@@ -5,7 +5,7 @@ This project is ideal for beginners learning the basics of Java, including **loo
 
 ---
 
-# Features
+## Features
 - Random number generation within a given range  
 - User input through the console  
 - Feedback: too high, too low, or correct  
@@ -14,19 +14,19 @@ This project is ideal for beginners learning the basics of Java, including **loo
 
 ---
 
-# Tech Stack
+## Tech Stack
 - **Language:** Java  
 - **IDE (Optional):** IntelliJ IDEA / Eclipse / VS Code  
 
 ---
 
-# How to Run
+## How to Run
 1. Clone or download this repository.  
 2. Open the project in your Java IDE (or terminal).  
 3. Compile the file:  
    ```bash
    javac GuessNumber.java
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Using Scanner for user input
 
@@ -36,7 +36,7 @@ Applying if-else conditions and loops
 
 Writing clean and readable code
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Add difficulty levels (easy, medium, hard)
 
